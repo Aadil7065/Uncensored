@@ -27,7 +27,7 @@ TELEGRAM_TOKEN = "8732926521:AAEWoCcOAMhRMFTX49SMz2M1FSRXFUXotGQ"   # @BotFather
 
 # 🔴 IMPORTANT: Purana token leak ho gaya hai. Naya bana lo Hugging Face se.
 # 🔴 Jaake https://huggingface.co/settings/tokens par "New token" banao (Read role)
-HF_API_TOKEN   = "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"      # naya token yahan paste karo
+HF_API_TOKEN   = "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"      # naya token yahan paste karo
 
 ALLOWED_USER_IDS = [8561031913]                # tera Telegram ID (integer)
 MODEL_NAME = "mlabonne/Hermes-3-Llama-3.1-8B-lorablated"   # confirmed working uncensored model
